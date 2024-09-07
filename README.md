@@ -21,13 +21,13 @@ Welcome to my **Responsive Personal Portfolio Website**! This task showcases my 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/UACodeHorizon/responsive_portfolio.git
+   git clone https://github.com/UACodeHorizon/Responsive_Portfolio.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd responsive_portfolio
+   cd Responsive_Portfolio
    ```
 
 3. **Open `index.html` in your web browser**.
